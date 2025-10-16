@@ -54,6 +54,6 @@ The system addresses multiple real-world scenarios in complaint management. Key 
 
 ---
 
-Customer Complaint CRM-Project Full Explanation: [Google Doc Link](https://docs.google.com/document/d/1fPCG6CLORet0YcI8VD8H3WXahn2rfkZ7a3378EA14rA/edit?usp=sharing)
+Customer Complaint CRM-Project: [Full Explanation](https://docs.google.com/document/d/1fPCG6CLORet0YcI8VD8H3WXahn2rfkZ7a3378EA14rA/edit?usp=sharing)
 
-Google Drive For Phase-wise Documents: [Click Here](https://drive.google.com/drive/folders/1lOp_3hvUrWrckcwW5C_KFdPHvn9WFv4Q?usp=sharing)
+[Click Here for Phase-wise Documents](https://drive.google.com/drive/folders/1lOp_3hvUrWrckcwW5C_KFdPHvn9WFv4Q?usp=sharing)
